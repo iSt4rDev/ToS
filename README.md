@@ -1,6 +1,6 @@
-# ToS
+# ToS Unishedr
 Term of Services of Unishedr
-# Terms of Service
+# Terms of Service Unishedr
 
 **Effective Date:** [Insert Date]
 
