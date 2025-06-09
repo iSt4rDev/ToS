@@ -2,8 +2,6 @@
 Term of Services of Unishedr
 # Terms of Service Unishedr
 
-**Effective Date:** [Insert Date]
-
 Welcome to UniShedr / PitchPulse (the "Bot", "we", "us", or "our"). By using our bot and related services, you agree to the following terms:
 
 1. **Acceptance of Terms**  
