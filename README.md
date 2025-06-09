@@ -27,9 +27,4 @@ We are not liable for any damages resulting from the use or inability to use the
 7. **Changes to Terms**  
 We may update these terms at any time. Continued use constitutes acceptance.
 
-8. **Contact**  
-For questions, contact [Your Contact Email].
-
----
-
 By using the bot, you accept these terms.
